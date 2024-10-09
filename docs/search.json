@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "sarah_rosenfeld_ICMB_HS24_files/hw1/index.html",
+    "href": "sarah_rosenfeld_ICMB_HS24_files/hw1/index.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "this is a simple plot:\n\n\nCode\nx &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sarah_rosenfeld_ICMB_HS24.html",
+    "href": "sarah_rosenfeld_ICMB_HS24.html",
+    "title": "sarah_rosenfeld_ICMB_HS24",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "sarah_rosenfeld_ICMB_HS24.html#quarto",
+    "href": "sarah_rosenfeld_ICMB_HS24.html#quarto",
+    "title": "sarah_rosenfeld_ICMB_HS24",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  }
+]
