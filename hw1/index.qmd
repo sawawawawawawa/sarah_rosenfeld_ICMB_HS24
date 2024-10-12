@@ -1,0 +1,11 @@
+---
+title: "Assignment 1"
+author: "Sarah"
+---
+
+This is a simple plot:
+
+```{r}
+x <- rnorm(10000, mean = 100, sd = 15)
+hist(x)
+```

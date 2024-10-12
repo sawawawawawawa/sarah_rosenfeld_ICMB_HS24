@@ -1,5 +1,4 @@
 project:
-  title: "sarah_rosenfeld_ICMB_HS24"
   type: website
   execute-dir: project
   output-dir: docs
@@ -35,5 +34,5 @@ format:
     code-overflow: wrap
     page-layout: full
     css: styles.css
-    
+
 editor: visual
