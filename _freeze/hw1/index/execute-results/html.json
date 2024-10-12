@@ -2,7 +2,7 @@
   "hash": "1dfd2100984aab6bc9df2acd26f3ca06",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Assignment 1\"\nauthor: \"Sarah\"\n---\n\n\n\n\nThis is a simple plot:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Assignment 1\"\nauthor: \"Sarah\"\n---\n\n\n\nThis is a simple plot:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
