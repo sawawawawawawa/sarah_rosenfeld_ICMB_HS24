@@ -20,7 +20,7 @@ website:
   sidebar: 
     collapse-level: 1
     contents: 
-      - index.qmd
+      - about.qmd
       - hw1/index.qmd
 
 format:
